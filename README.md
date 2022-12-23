@@ -16,3 +16,7 @@ and many more
 4. Make sure to install the dependencies by either running "npm i" or running the install.bat file
 5. Then you can run the start.bat file and the api will be up and ready
 6. you can now request to http://127.0.0.1:${PORT}/datadome with the body having the domain in it example - {"domain":domain}
+
+PS: Wrote this in 1 hour so not the best Datadome API out there but works great
+
+Any issues contact me @ghosts#6983 on discord or @french#8355

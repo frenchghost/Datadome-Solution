@@ -22,3 +22,5 @@ cookieGen() function can also be pulled from .\src\assets and can be used in any
 PS: Wrote this in 1 hour so not the best Datadome API out there but works great
 
 Any issues contact me @ghosts#6983 on discord or @french#8355
+
+alternative, you can use capsolver.com
